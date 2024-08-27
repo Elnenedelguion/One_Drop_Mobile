@@ -9,7 +9,3 @@
 Te lo cuento en éste [link](https://youtu.be/VmxHfew4IAQ) 
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
-
-:small_orange_diamond: **Modelo Relacional**
-
-En este [link](https://www.figma.com/file/KkkPGvnYyXotXuSsNcpnHi/MODELO-RELACIONAL-ONEDROP?type=design&mode=design&t=zyMNqu7FQs8BO0nC-1) se puede acceder al Design file. 
