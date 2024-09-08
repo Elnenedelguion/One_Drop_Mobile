@@ -8,4 +8,6 @@
 
 Check it out [link](https://youtu.be/VmxHfew4IAQ) 
 
+<p>This web project allows effective diabetes management through various functionalities.</p>
+
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
